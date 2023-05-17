@@ -1,7 +1,9 @@
 # Personal notes for "Chemistry: The Central Science (13th Edition)"
 
 Notes taken during two introductory chemistry courses (CHEM121 and CHEM122) at
-the New Mexico Institute of Mining and Technology.
+my alma mater, the New Mexico Institute of Mining and Technology, during 2014/2015.
+With this goal of creating beautiful and concise notes, I achieved the highest possible
+scores in CHEM121's national exam and excellent scores for CHEM122's final exam.
 
 Elegant and compact layout created using LaTeX.
 
